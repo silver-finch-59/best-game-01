@@ -1,8 +1,8 @@
 # Lumen Tide
 
-[![make.fun](https://make.fun/badge/best-game-01.svg)](https://make.fun)
-[![make.fun rank](https://make.fun/badge/best-game-01/silver-finch-59/best-game-01/rank.svg)](https://make.fun)
-[![make.fun reward](https://make.fun/badge/best-game-01/reward.svg)](https://make.fun)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/silver-finch-59/best-game-01/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/silver-finch-59/best-game-01/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 A complete, original 2D arena-defence game for the web, built for
 make.fun's **best-game-01** ("Make the best game").
